@@ -10,11 +10,27 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-firebase/app": "^12.7.3",
+    "@react-native-firebase/auth": "^12.7.3",
+    "@react-native-firebase/database": "^12.7.3",
+    "@react-native-firebase/storage": "^12.7.3",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "dayjs": "^1.10.6",
+    "firebase": "^9.0.0",
     "mobx": "^6.3.2",
-    "mobx-react": "^7.2.0",
+    "mobx-react-lite": "^3.2.0",
     "react": "17.0.2",
     "react-native": "0.65.1",
-    "react-native-material-ui": "^1.30.1"
+    "react-native-document-picker": "^6.0.4",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-material-ui": "^1.30.1",
+    "react-native-paper": "^4.9.2",
+    "react-native-safe-area-context": "^3.3.0",
+    "react-native-screens": "^3.6.0",
+    "react-native-size-matters": "^0.4.0",
+    "react-native-vector-icons": "^8.1.0",
+    "rn-fetch-blob": "^0.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
